@@ -1,6 +1,6 @@
 # Houston::Dashboard
 
-TODO: Summary of Houston Dashboard.
+A module for Houston for showing realtime stats.
 
 
 ## Installation
